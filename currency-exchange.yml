@@ -1,4 +1,4 @@
 currency:
   default:
-    base_currency: "INR"
+    base_currency: "USD"
     display_currency: "INR"
