@@ -1,0 +1,4 @@
+currency:
+  default:
+    base_amount : 1
+    convert_amount : 88
